@@ -1,3 +1,9 @@
-# About Content v2
+---
+title: About
+description: My super description
+---
 
-[Back home](/)
+::hero{ :title="title" :description="description" }
+::
+
+Go to [Home](/)
